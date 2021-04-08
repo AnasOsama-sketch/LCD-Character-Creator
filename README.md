@@ -8,4 +8,4 @@ https://anasosama-sketch.github.io/LCD-Character-Creator/
 | https://maxpromer.github.io/LCD-Character-Creator/
 |
 | Made by: maxpromer
-[
+]
